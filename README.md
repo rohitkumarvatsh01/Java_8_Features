@@ -2,7 +2,7 @@
 
 This repository contains a set of Java programs illustrating various aspects of functional programming using lambda expressions, functional interfaces, method references, and Java 8 Stream API. The examples cover the following topics:
 
-## Lambda Functions
+## Lambda Functions 
 
 - Demonstrates the usage of lambda expressions with different numbers of arguments.
 - Includes examples of lambda expressions with no arguments, a single argument, and multiple arguments.
