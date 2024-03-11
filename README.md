@@ -1,6 +1,6 @@
 # Java Functional Programming Examples
 
-![Java Logo](https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png)
+![Java Logo](https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png =20x20)
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/your-username/your-repository-name/blob/main/LICENSE)
 
