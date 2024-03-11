@@ -1,9 +1,5 @@
 # Java Functional Programming Examples
 
-![Java Logo](https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png=20x20)
-
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/your-username/your-repository-name/blob/main/LICENSE)
-
 This repository contains a set of Java programs illustrating various aspects of functional programming using lambda expressions, functional interfaces, method references, and Java 8 Stream API. The examples cover the following topics:
 
 ## Lambda Functions
@@ -39,9 +35,3 @@ This repository contains a set of Java programs illustrating various aspects of 
 ## Static Method in Interface
 
 - Illustrates the use of static methods within interfaces, including a static method in a functional interface.
-
-Feel free to explore each example individually and use them as a reference for understanding functional programming concepts in Java. The code is well-commented to provide clarity and understanding. Enjoy learning and experimenting with functional programming in Java!
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
