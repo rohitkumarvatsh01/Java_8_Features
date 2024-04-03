@@ -2,7 +2,7 @@
 
 This repository contains a set of Java 8 Features programs includes lambda expressions, functional interfaces, method references, Java 8 Stream API, Optional class, Static method interface, Default method, and ForEach() method. The examples cover the following topics:-
 
-## Lambda Functions 
+## Lambda Functions
 
 - Demonstrates the usage of lambda expressions with different numbers of arguments.
 - Includes examples of lambda expressions with no arguments, a single argument, and multiple arguments.
